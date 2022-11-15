@@ -1,0 +1,26 @@
+[Trace 14:04:05.341] Server: connection.languages.diagnostics.on: file:///home/user/projects/products_manager/README.md
+[Trace 14:04:05.343] Server: connection.languages.diagnostics.on: file:///home/user/projects/products_manager/README.md
+[Debug 14:04:05.443] TableOfContentsProvider: create - file:///home/user/projects/products_manager/README.md
+[Debug 14:04:05.444] LinkProvider: compute - file:///home/user/projects/products_manager/README.md
+[Trace 14:04:05.788] Server: connection.languages.diagnostics.on: file:///home/user/projects/products_manager/README.md
+[Trace 14:04:38.596] Server: connection.languages.diagnostics.on: file:///home/user/projects/products_manager/README.md
+[Trace 14:04:44.851] Server: connection.languages.diagnostics.on: file:///home/user/projects/products_manager/README.md
+[Trace 14:04:45.052] Server: connection.languages.diagnostics.on: file:///home/user/projects/products_manager/README.md
+[Trace 14:04:45.201] Server: connection.languages.diagnostics.on: file:///home/user/projects/products_manager/README.md
+[Debug 14:04:45.201] TableOfContentsProvider: create - file:///home/user/projects/products_manager/README.md
+[Trace 14:04:45.204] Server: connection.languages.diagnostics.on: file:///home/user/projects/products_manager/README.md
+[Debug 14:04:45.204] LinkProvider: compute - file:///home/user/projects/products_manager/README.md
+[Debug 14:04:45.205] MdFoldingProvider: provideFoldingRanges - file:///home/user/projects/products_manager/README.md
+[Trace 14:04:45.924] Server: connection.languages.diagnostics.on: file:///home/user/projects/products_manager/README.md
+[Trace 14:04:48.240] Server: connection.languages.diagnostics.on: file:///home/user/projects/products_manager/README.md
+[Trace 14:04:57.850] Server: connection.languages.diagnostics.on: file:///home/user/projects/products_manager/README.md
+[Trace 14:04:58.047] Server: connection.languages.diagnostics.on: file:///home/user/projects/products_manager/README.md
+[Debug 14:04:58.047] TableOfContentsProvider: create - file:///home/user/projects/products_manager/README.md
+[Trace 14:04:58.049] Server: connection.languages.diagnostics.on: file:///home/user/projects/products_manager/README.md
+[Debug 14:04:58.050] LinkProvider: compute - file:///home/user/projects/products_manager/README.md
+[Debug 14:04:58.188] MdFoldingProvider: provideFoldingRanges - file:///home/user/projects/products_manager/README.md
+[Trace 14:04:59.393] Server: connection.languages.diagnostics.on: file:///home/user/projects/products_manager/README.md
+[Trace 14:04:59.806] Server: connection.languages.diagnostics.on: file:///home/user/projects/products_manager/README.md
+[Debug 14:04:59.959] MdFoldingProvider: provideFoldingRanges - file:///home/user/projects/products_manager/README.md
+[Trace 14:05:00.755] Server: connection.languages.diagnostics.on: file:///home/user/projects/products_manager/README.md
+[Trace 14:05:08.103] Server: connection.languages.diagnostics.on: file:///home/user/projects/products_manager/README.md

@@ -1,0 +1,50 @@
+
+/home/user/projects/products_manager/package.json
+[9:40:10 PM] Fixing dependency issues...
+
+
+up to date in 2s
+
+
+22 packages are looking for funding
+  run `npm fund` for details
+
+
+[9:40:11 PM] Done fixing dependency issues. 
+/home/user/projects/products_manager/package.json
+
+
+/home/user/projects/products_manager/package.json
+[9:58:06 PM] Fixing dependency issues...
+
+npm
+ ERR! code ETARGET
+
+npm 
+ERR! notarget No matching version found for @sap/ux-specification@1.108.0.
+
+npm ERR! notarget In most cases you or one of your dependencies are requesting
+npm ERR!
+ notarget a package version that doesn't exist.
+
+
+
+npm ERR!
+ A complete log of this run can be found in:
+npm ERR!     /home/user/.npm/_logs/2022-11-15T21_58_07_014Z-debug-0.log
+
+
+/home/user/projects/products_manager/package.json
+[10:01:42 PM] Fixing dependency issues...
+
+
+up to date in 1s
+
+
+22 packages are looking for funding
+  run `npm fund` for details
+
+
+[10:01:44 PM] Done fixing dependency issues. 
+/home/user/projects/products_manager/package.json
+

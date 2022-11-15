@@ -1,0 +1,44 @@
+13:23:16 [INFO] - Running activation sequence for Fiori tools - Application Modeler
+13:23:16 [INFO] - Configurations: 'sap.ux.applicationModeler.showJsonSchemas': false; isTheia(): false; isAppStudio(): true
+13:23:17 [INFO] - Register Fiori tools file system for configurations...
+13:23:17 [INFO] - ...Fiori tools file system registered in 0.754ms
+13:23:17 [INFO] - Register views for configurations...
+13:23:17 [INFO] - ...views for configurations registered in 0.890ms
+13:23:17 [INFO] - Register commands...
+13:23:17 [INFO] - ...commands registered in 4.345ms
+13:23:17 [INFO] - Activating sync module...
+13:23:17 [INFO] - Virtual file system ftfs initialized in 0.196ms
+13:23:17 [INFO] - Searching for projects in these workspace folders: 
+[ '/home/user/projects/products_manager' ]
+13:23:18 [INFO] - SAP UX projects found and added in 974.000ms
+13:23:18 [INFO] - Start watching **/package.json
+13:23:18 [INFO] - package.json watched in 0.643ms
+13:23:18 [INFO] - Start watching for workspace folder changes
+13:23:18 [INFO] - Workspace folders watched in 0.456ms
+13:23:18 [INFO] - Configs watched in 0.179ms
+13:23:18 [INFO] - ...sync module activated in 977.697ms
+13:23:18 [INFO] - Activating launch config integration
+13:23:18 [INFO] - Handler for Fiori launch configuration registered
+13:23:18 [INFO] - ...launch config integration activated in 0.914ms
+13:23:18 [INFO] - Activating migration module...
+13:23:18 [INFO] - SAP Fiori tools - Application Modeler
+'Migration start watching for workspace folder changes'
+13:23:18 [INFO] - Workspace folders watched in 0.517ms
+13:23:18 [INFO] - SAP Fiori tools - Application Modeler
+'Migration start watching **/package.json'
+13:23:18 [INFO] - package.json watched in 0.470ms
+13:23:18 [INFO] - SAP Fiori tools - Application Modeler
+'Migration start watching **/pom.xml'
+13:23:18 [INFO] - pom.xml watched in 0.771ms
+13:23:18 [INFO] - SAP Fiori tools - Application Modeler
+'Migration start watching **/neo-app.json'
+13:23:18 [INFO] - WATCH_NEO_APP_JSON_CHANGES in 0.497ms
+13:23:19 [INFO] - ...migration module activated in 598.725ms
+13:23:19 [INFO] - activation sequence for Fiori tools - Application Modeler done in 2585.182ms
+13:45:06 [INFO] - Project added /home/user/projects/products_manager
+13:45:16 [INFO] - Project removed /home/user/projects/products_manager
+13:45:21 [INFO] - Project added /home/user/projects/products_manager
+13:45:39 [INFO] - Project removed /home/user/projects/products_manager
+13:45:45 [INFO] - An error occurred while processing changes of file '/home/user/projects/products_manager/package.json': SyntaxError: Unexpected string in JSON at position 906
+13:45:52 [INFO] - Project added /home/user/projects/products_manager
+14:08:40 [INFO] - An error occurred while processing changes of file '/home/user/projects/products_manager/package.json': SyntaxError: Unexpected token s in JSON at position 290

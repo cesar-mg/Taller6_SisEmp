@@ -1,0 +1,63 @@
+   create ../../../home/user/projects/products_manager/.gitignore
+   create ../../../home/user/projects/products_manager/package.json
+   create ../../../home/user/projects/products_manager/ui5-local.yaml
+   create ../../../home/user/projects/products_manager/ui5.yaml
+   create ../../../home/user/projects/products_manager/webapp/Component.js
+   create ../../../home/user/projects/products_manager/webapp/index.html
+   create ../../../home/user/projects/products_manager/webapp/manifest.json
+   create ../../../home/user/projects/products_manager/webapp/i18n/i18n.properties
+   create ../../../home/user/projects/products_manager/webapp/utils/locate-reuse-libs.js
+   create ../../../home/user/projects/products_manager/webapp/model/models.js
+   create ../../../home/user/projects/products_manager/webapp/test/flpSandbox.html
+   create ../../../home/user/projects/products_manager/webapp/controller/App.controller.js
+   create ../../../home/user/projects/products_manager/webapp/controller/BaseController.js
+   create ../../../home/user/projects/products_manager/webapp/controller/ErrorHandler.js
+   create ../../../home/user/projects/products_manager/webapp/controller/NotFound.controller.js
+   create ../../../home/user/projects/products_manager/webapp/controller/Object.controller.js
+   create ../../../home/user/projects/products_manager/webapp/controller/Worklist.controller.js
+   create ../../../home/user/projects/products_manager/webapp/model/formatter.js
+   create ../../../home/user/projects/products_manager/webapp/view/App.view.xml
+   create ../../../home/user/projects/products_manager/webapp/view/NotFound.view.xml
+   create ../../../home/user/projects/products_manager/webapp/view/Object.view.xml
+   create ../../../home/user/projects/products_manager/webapp/view/ObjectNotFound.view.xml
+   create ../../../home/user/projects/products_manager/webapp/view/Worklist.view.xml
+   create ../../../home/user/projects/products_manager/ui5-mock.yaml
+   create ../../../home/user/projects/products_manager/webapp/localService/metadata.xml
+   create ../../../home/user/projects/products_manager/webapp/test/flpSandbox.js
+   create ../../../home/user/projects/products_manager/webapp/test/initFlpSandbox.js
+   create ../../../home/user/projects/products_manager/webapp/test/integration/AllJourneys.js
+   create ../../../home/user/projects/products_manager/webapp/test/integration/FLPIntegrationJourney.js
+   create ../../../home/user/projects/products_manager/webapp/test/integration/NavigationJourney.js
+   create ../../../home/user/projects/products_manager/webapp/test/integration/WorklistJourney.js
+   create ../../../home/user/projects/products_manager/webapp/test/integration/arrangements/FLP.js
+   create ../../../home/user/projects/products_manager/webapp/test/integration/arrangements/Startup.js
+   create ../../../home/user/projects/products_manager/webapp/test/integration/opaTests.qunit.html
+   create ../../../home/user/projects/products_manager/webapp/test/integration/opaTests.qunit.js
+   create ../../../home/user/projects/products_manager/webapp/test/integration/pages/Browser.js
+   create ../../../home/user/projects/products_manager/webapp/test/integration/pages/Common.js
+   create ../../../home/user/projects/products_manager/webapp/test/integration/pages/Object.js
+   create ../../../home/user/projects/products_manager/webapp/test/integration/pages/Worklist.js
+   create ../../../home/user/projects/products_manager/webapp/test/testsuite.qunit.html
+   create ../../../home/user/projects/products_manager/webapp/test/testsuite.qunit.js
+   create ../../../home/user/projects/products_manager/webapp/test/unit/AllTests.js
+   create ../../../home/user/projects/products_manager/webapp/test/unit/helper/FakeI18nModel.js
+   create ../../../home/user/projects/products_manager/webapp/test/unit/model/formatter.js
+   create ../../../home/user/projects/products_manager/webapp/test/unit/model/models.js
+   create ../../../home/user/projects/products_manager/webapp/test/unit/unitTests.qunit.html
+   create ../../../home/user/projects/products_manager/webapp/test/unit/unitTests.qunit.js
+   create ../../../home/user/projects/products_manager/README.md
+          
+No change to package.json was detected. No package manager install will be executed.
+          Installing dependencies...
+          Running: `npm install`
+          added 815 packages in 21s
+          18 packages are looking for funding
+  run `npm fund` for details
+          npm
+          notice 
+npm notice New major version of npm available! 8.11.0 -> 9.1.1
+npm notice Changelog: <https://github.com/npm/cli/releases/tag/v9.1.1>
+npm notice Run `npm install -g npm@9.1.1` to update!
+npm notice
+          Project dependencies have been installed.
+          An error occurred writing application files : TypeError: Cannot read properties of undefined (reading 'uri')

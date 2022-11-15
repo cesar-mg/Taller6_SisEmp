@@ -1,0 +1,54 @@
+npm config set @bas-dev:registry https://common.repositories.cloud.sap/api/npm/devx-npm-live/
+npm config set @devx-wing:registry https://common.repositories.cloud.sap/api/npm/devx-npm-live/
+npm config set @adaptation-project:registry https://registry.npmjs.org/
+npm config set @sapdmz:registry https://common.repositories.cloud.sap/artifactory/api/npm/build.releases.npm/
+npm config set @sap-ux-rel:registry https://common.repositories.cloud.sap/artifactory/api/npm/deploy.milestones.npm/
+npm config set @sap-lcnc:registry https://common.repositories.cloud.sap/api/npm/deploy.releases.npm/
+yarn global add --prefix /extbin/npm/globals --global-folder /extbin/npm/globals/lib @sap/generator-adaptation-project@0.2.19 @sap/generator-adaptation-project-deployment@0.0.28 @sap/generator-fiori@1.8.1
+[1/4] Resolving packages...
+warning @sap/generator-adaptation-project > @sap/cf-tools > url > querystring@0.2.0: The querystring API is considered Legacy. new code should use the URLSearchParams API instead.
+[2/4] Fetching packages...
+warning @sap/generator-adaptation-project-deployment@0.0.28: The engine "vscode" appears to be invalid.
+warning @sap-ux/axios-extension@0.9.4: The engine "pnpm" appears to be invalid.
+warning @sap-ux/btp-utils@0.10.4: The engine "pnpm" appears to be invalid.
+warning @sap-ux/logger@0.2.2: The engine "pnpm" appears to be invalid.
+[3/4] Linking dependencies...
+[4/4] Building fresh packages...
+warning "@sap/generator-adaptation-project@0.2.19" has no binaries
+warning "@sap/generator-adaptation-project-deployment@0.0.28" has no binaries
+warning "@sap/generator-fiori@1.8.1" has no binaries
+Installation summary of Yeoman generators, global npm packages, VS Code extensions, and CLIs:
+Installation summary of the "ext-adaptation-project-trial/adaptation-project" extension (created by "SAP(CA-UI5-FL-ADP-BAS)"):
+    The @sap/ui5-visual-editor VS Code extension was installed successfully.
+    The @sap/ui5-visual-editor VS Code extension signature was validated successfully.
+    The @sap/generator-adaptation-project node module was installed successfully.
+    The @sap/generator-adaptation-project-deployment node module was installed successfully.
+Installation summary of the " html5-runner/html5-runner" extension:
+    The @sapdmz/vscode-wing-ui5-run VS Code extension was installed successfully.
+    The @sapdmz/vscode-wing-ui5-run VS Code extension signature was validated successfully.
+Installation summary of the "vscode-mta-editor/vscode-mta-editor" extension:
+    The @bas-dev/vscode-mta-editor VS Code extension was installed successfully.
+    The @bas-dev/vscode-mta-editor VS Code extension signature was validated successfully.
+Installation summary of the "ext-mckbj-trial/development-productivity-tools" extension (created by "SAP(MOB-MDE-MDK)"):
+    The @sap-lcnc/guided-development VS Code extension was installed successfully.
+    The @sap-lcnc/guided-development VS Code extension signature was validated successfully.
+    The @sap-lcnc/run-config VS Code extension was installed successfully.
+    The @sap-lcnc/run-config VS Code extension signature was validated successfully.
+Installation summary of the "w5g-wing/w5g-wing" extension:
+    The @bas-dev/vscode-w5g VS Code extension was installed successfully.
+    The @bas-dev/vscode-w5g VS Code extension signature was validated successfully.
+Installation summary of the "ext-sap-ux-trial/sap-ux-all-extensions" extension (created by "SAP(CA-UX-IDE)"):
+    The @sap-ux-rel/sap-ux-service-modeler-extension VS Code extension was installed successfully.
+    The @sap-ux-rel/sap-ux-service-modeler-extension VS Code extension signature was validated successfully.
+    The @sap-ux-rel/sap-ux-application-modeler-extension VS Code extension was installed successfully.
+    The @sap-ux-rel/sap-ux-application-modeler-extension VS Code extension signature was validated successfully.
+    The @sap-ux-rel/sap-ux-help-extension VS Code extension was installed successfully.
+    The @sap-ux-rel/sap-ux-help-extension VS Code extension signature was validated successfully.
+    The @sap-ux-rel/sap-ux-annotation-modeler-extension VS Code extension was installed successfully.
+    The @sap-ux-rel/sap-ux-annotation-modeler-extension VS Code extension signature was validated successfully.
+    The @sap/generator-fiori node module was installed successfully.
+Finished installing App Studio simple extensions components!
+Total install time: 17629 milliseconds
+
+
+START INSTALLATION OF NON SAP EXTENSIONS

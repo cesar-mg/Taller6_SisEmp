@@ -1,0 +1,87 @@
+[Telemetry]: ENOENT: no such file or directory, open '/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.8.1/extension/package.json'
+{"level":"info","message":"File 'file:///home/user/projects/products_manager/webapp/annotations/annotation.xml' is not registered in manifest.json file"}
+{"level":"error","message":"Service component could not be initialized"}
+{"level":"error","message":"Service component could not be initialized"}
+{"level":"info","message":"File 'file:///home/user/projects/products_manager/webapp/localService/SEPMRA_PROD_MAN_ANNO_MDL.xml' is not registered in manifest.json file"}
+{"level":"error","message":"Service component could not be initialized"}
+{"level":"error","message":"Service component could not be initialized"}
+undefined:153
+}
+
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at /extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.8.1/dist/server.js:817:2367
+    at async /extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.8.1/dist/server.js:1308:25909
+[Info  - 1:43:29 PM] Connection to server got closed. Server will restart.
+[Telemetry]: ENOENT: no such file or directory, open '/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.8.1/extension/package.json'
+undefined:153
+}
+
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at /extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.8.1/dist/server.js:817:2367
+    at async /extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.8.1/dist/server.js:1308:23775
+[Info  - 1:43:31 PM] Connection to server got closed. Server will restart.
+[Telemetry]: ENOENT: no such file or directory, open '/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.8.1/extension/package.json'
+undefined:153
+}
+
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at /extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.8.1/dist/server.js:817:2367
+    at async /extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.8.1/dist/server.js:1308:23775
+[Info  - 1:43:32 PM] Connection to server got closed. Server will restart.
+[Error - 1:43:32 PM] Request textDocument/codeAction failed.
+Error: Connection got disposed.
+	at Object.dispose (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.8.1/dist/extension.js:29:4134)
+	at Object.dispose (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.8.1/dist/extension.js:34:9601)
+	at Sq.handleConnectionClosed (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.8.1/dist/extension.js:36:9085)
+	at Sq.handleConnectionClosed (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.8.1/dist/extension.js:39:12262)
+	at r (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.8.1/dist/extension.js:36:8766)
+	at _N.invoke (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.8.1/dist/extension.js:2:9670)
+	at dm.fire (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.8.1/dist/extension.js:2:10436)
+	at rt (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.8.1/dist/extension.js:3:10906)
+	at _N.invoke (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.8.1/dist/extension.js:2:9670)
+	at dm.fire (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.8.1/dist/extension.js:2:10436)
+	at zN.fireClose (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.8.1/dist/extension.js:2:12716)
+	at ChildProcess.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.8.1/dist/extension.js:29:12045)
+	at ChildProcess.emit (node:events:402:35)
+	at maybeClose (node:internal/child_process:1064:16)
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5)
+[Telemetry]: ENOENT: no such file or directory, open '/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.8.1/extension/package.json'
+undefined:2
+  "_version": "1.32.0",
+            ^
+
+SyntaxError: Unexpected token : in JSON at position 13
+    at JSON.parse (<anonymous>)
+    at /extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.8.1/dist/server.js:817:2367
+    at async /extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.8.1/dist/server.js:1308:25909
+[Info  - 1:44:14 PM] Connection to server got closed. Server will restart.
+[Telemetry]: ENOENT: no such file or directory, open '/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.8.1/extension/package.json'
+undefined:2
+  "_version": "1.32.0",
+            ^
+
+SyntaxError: Unexpected token : in JSON at position 13
+    at JSON.parse (<anonymous>)
+    at /extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.8.1/dist/server.js:817:2367
+    at async /extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.8.1/dist/server.js:1308:23775
+[Error - 1:44:15 PM] Connection to server got closed. Server will not be restarted.
+[Error - 1:44:15 PM] Request textDocument/codeAction failed.
+Error: Connection got disposed.
+	at Object.dispose (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.8.1/dist/extension.js:29:4134)
+	at Object.dispose (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.8.1/dist/extension.js:34:9601)
+	at Sq.handleConnectionClosed (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.8.1/dist/extension.js:36:9085)
+	at Sq.handleConnectionClosed (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.8.1/dist/extension.js:39:12262)
+	at r (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.8.1/dist/extension.js:36:8766)
+	at _N.invoke (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.8.1/dist/extension.js:2:9670)
+	at dm.fire (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.8.1/dist/extension.js:2:10436)
+	at rt (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.8.1/dist/extension.js:3:10906)
+	at _N.invoke (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.8.1/dist/extension.js:2:9670)
+	at dm.fire (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.8.1/dist/extension.js:2:10436)
+	at zN.fireClose (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.8.1/dist/extension.js:2:12716)
+	at ChildProcess.<anonymous> (/extbin/local/openvscode-server/extensions/sap-ux-annotation-modeler-extension-1.8.1/dist/extension.js:29:12045)
+	at ChildProcess.emit (node:events:402:35)
+	at maybeClose (node:internal/child_process:1064:16)
+	at Process.ChildProcess._handle.onexit (node:internal/child_process:301:5)
