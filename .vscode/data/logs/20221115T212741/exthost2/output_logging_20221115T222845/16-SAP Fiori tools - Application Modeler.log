@@ -1,0 +1,38 @@
+22:28:52 [INFO] - Running activation sequence for Fiori tools - Application Modeler
+22:28:52 [INFO] - Configurations: 'sap.ux.applicationModeler.showJsonSchemas': false; isTheia(): false; isAppStudio(): true
+22:28:54 [INFO] - Register Fiori tools file system for configurations...
+22:28:54 [INFO] - ...Fiori tools file system registered in 1.141ms
+22:28:54 [INFO] - Register views for configurations...
+22:28:54 [INFO] - ...views for configurations registered in 1.135ms
+22:28:54 [INFO] - Register commands...
+22:28:54 [INFO] - ...commands registered in 4.721ms
+22:28:54 [INFO] - Activating sync module...
+22:28:54 [INFO] - Virtual file system ftfs initialized in 0.262ms
+22:28:54 [INFO] - Searching for projects in these workspace folders: 
+[ '/home/user' ]
+22:28:55 [INFO] - Project added /home/user/projects/products_manager
+22:28:55 [INFO] - SAP UX projects found and added in 987.797ms
+22:28:55 [INFO] - Start watching **/package.json
+22:28:55 [INFO] - package.json watched in 10.189ms
+22:28:55 [INFO] - Start watching for workspace folder changes
+22:28:55 [INFO] - Workspace folders watched in 2.529ms
+22:28:55 [INFO] - Configs watched in 0.277ms
+22:28:55 [INFO] - ...sync module activated in 1006.590ms
+22:28:55 [INFO] - Activating launch config integration
+22:28:55 [INFO] - Handler for Fiori launch configuration registered
+22:28:55 [INFO] - ...launch config integration activated in 4.838ms
+22:28:55 [INFO] - Activating migration module...
+22:28:55 [INFO] - SAP Fiori tools - Application Modeler
+'Migration start watching for workspace folder changes'
+22:28:55 [INFO] - Workspace folders watched in 1.325ms
+22:28:55 [INFO] - SAP Fiori tools - Application Modeler
+'Migration start watching **/package.json'
+22:28:55 [INFO] - package.json watched in 1.552ms
+22:28:55 [INFO] - SAP Fiori tools - Application Modeler
+'Migration start watching **/pom.xml'
+22:28:55 [INFO] - pom.xml watched in 11.005ms
+22:28:55 [INFO] - SAP Fiori tools - Application Modeler
+'Migration start watching **/neo-app.json'
+22:28:55 [INFO] - WATCH_NEO_APP_JSON_CHANGES in 1.320ms
+22:29:05 [INFO] - ...migration module activated in 9907.738ms
+22:29:05 [INFO] - activation sequence for Fiori tools - Application Modeler done in 12756.158ms
